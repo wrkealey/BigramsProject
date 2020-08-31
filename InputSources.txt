@@ -1,0 +1,20 @@
+I just wanted to include a breif, informal summary of what each input is, and where it was obtained.
+
+I made the educated guess that we should avoid just references to the book.
+
+-William Kealey
+
+1) "The Inevitability of Failure:The Flawed Assumption of Security in Modern Computing Environments"
+https://www.cs.utah.edu/flux/fluke/html/inevitability.htm
+
+2) "The future of security lies in quantum computing"
+https://www.pandasecurity.com/mediacenter/security/security-quantum-computing/
+
+3) "Data Security in Cloud Computing"
+https://www.mindcentric.com/blog/data-security-in-cloud-computing
+
+4) "Computing Security"
+https://www.explainingcomputers.com/security.html
+
+5) "Top 10 Secure Computing Tips"
+https://security.berkeley.edu/resources/best-practices-how-to-articles/top-10-secure-computing-tips
